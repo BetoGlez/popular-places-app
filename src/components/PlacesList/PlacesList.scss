@@ -1,0 +1,13 @@
+.places-list {
+    .list-title {
+        opacity: 0.5;
+        margin-bottom: 20px;
+    }
+    .grid-list {
+        flex-wrap: nowrap;
+        transform: translateZ(0);
+        .star-button {
+            color: white;
+        }
+    }
+}

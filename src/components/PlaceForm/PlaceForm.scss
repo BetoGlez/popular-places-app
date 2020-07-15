@@ -1,0 +1,16 @@
+.place-form {
+    .form-title {
+        opacity: 0.5;
+        margin-bottom: 20px;
+    }
+    .form-fields {
+        display: flex;
+        flex-direction: column;
+        .input-field {
+            margin-bottom: 10px;
+        }
+        .submit-button {
+            margin-top: 30px;
+        }
+    }
+}
